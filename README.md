@@ -1,1 +1,1 @@
-# This is a respository for git
+# This is a repository for git
